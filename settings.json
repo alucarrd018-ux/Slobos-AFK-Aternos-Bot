@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEBLOOODSMP.aternos.me",
+    "ip": "longfin.aternos.host:22650",
     "port": 22650,
     "version": "",
     "try-creative": false
