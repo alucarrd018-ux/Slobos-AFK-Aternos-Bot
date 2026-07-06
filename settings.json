@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Don't Mind ME",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "THEBLOOODSMP.aternos.me",
+    "ip": "bluegill.aternos.host:22650",
     "port": 22650,
     "version": "",
     "try-creative": false
