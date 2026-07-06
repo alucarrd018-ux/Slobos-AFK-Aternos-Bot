@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "longfin.aternos.host:22650",
+    "ip": "longfin.aternos.host",
     "port": 22650,
     "version": "",
     "try-creative": false
