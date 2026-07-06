@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guitarfish.aternos.host",
+    "ip": "guitarfish.aternos.host:22650",
     "port": 22650,
     "version": "",
     "try-creative": false
