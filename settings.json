@@ -8,7 +8,7 @@
   "server": {
     "ip": "devario.aternos.host:22650",
     "port": 22650,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
