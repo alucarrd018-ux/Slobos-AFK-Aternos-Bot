@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEBLOOODSMP.aternos.me",
+    "ip": "devario.aternos.host:22650",
     "port": 22650,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
