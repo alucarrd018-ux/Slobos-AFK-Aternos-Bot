@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "darterfish.aternos.host:22650",
+    "ip": "darterfish.aternos.host",
     "port": 22650,
     "version": "",
     "try-creative": false
