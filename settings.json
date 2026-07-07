@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Don't Mind ME",
+    "username": "IM NONE",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "darterfish.aternos.host",
+    "ip": "marmot.aternos.host",
     "port": 22650,
     "version": "",
     "try-creative": false
